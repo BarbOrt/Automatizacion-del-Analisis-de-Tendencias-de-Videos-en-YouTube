@@ -33,6 +33,7 @@ Este proyecto tiene como objetivo automatizar el proceso de análisis de tendenc
 
 2. **Publicación del Dashboard**:
    - El dashboard fue publicado en Tableau Public y verificado en varios navegadores para asegurar su accesibilidad.
+   - [Accede al Dashboard en Tableau Public](https://public.tableau.com/app/profile/barbara.ortiz/viz/Proyecto_12_1er_entrega/Dashboard)
 
 3. **Análisis de Preguntas Clave**:
    - **Preguntas Respondidas**:
@@ -41,12 +42,6 @@ Este proyecto tiene como objetivo automatizar el proceso de análisis de tendenc
      - ¿Qué categorías fueron particularmente populares en los Estados Unidos? ¿Hubo diferencias entre las categorías populares en Estados Unidos y en otras regiones?
    - **Métodos**:
      - Utilicé el dashboard para extraer las respuestas y visualizarlas gráficamente.
-
-## Entregables
-
-- **Datos**: Archivo `trending_by_time.csv` con los datos cargados en el dashboard.
-- **Dashboard**: Enlace al dashboard en Tableau Public.
-- **Presentación**: PDF con un informe breve que incluye respuestas a las preguntas clave y gráficos del análisis.
 
 ---
 
