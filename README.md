@@ -33,7 +33,7 @@ Este proyecto tiene como objetivo automatizar el proceso de análisis de tendenc
 
 2. **Publicación del Dashboard**:
    - El dashboard fue publicado en Tableau Public y verificado en varios navegadores para asegurar su accesibilidad.
-   - [Accede al Dashboard en Tableau Public](https://public.tableau.com/app/profile/barbara.ortiz/viz/Proyecto_12_1er_entrega/Dashboard)
+   - [Accede al Dashboard en Tableau Public](https://public.tableau.com/app/profile/barbara.ortiz/viz/DashboardYoutube_17249856041880/Dashboard?publish=yes)
 
 3. **Análisis de Preguntas Clave**:
    - **Preguntas Respondidas**:
